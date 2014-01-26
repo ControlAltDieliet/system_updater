@@ -1,0 +1,6 @@
+<command>
+<action>INSTALL</action>
+<download>http://www.controlaltdieliet.be/software/firefox26.exe</download>
+<cmd>firefox26.exe -ms</cmd>
+<filename>firefox26.exe</filename>
+</command>
